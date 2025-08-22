@@ -4,3 +4,4 @@ Alteração 2
 Alteração 3 treinando commits
 Alteração feita para testar sincronização com o GitHub
 Linha adicionada pelo GitHub online
+Segunda linha adicionada pelo GitHub online
