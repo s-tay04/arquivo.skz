@@ -7,4 +7,8 @@ Linha adicionada pelo GitHub online
 Segunda linha adicionada pelo GitHub online
 Linha adicionada no computador local. Linha adicionada no GitHub online.
 Linha adicionada no GitHub online 2.
+<<<<<<< Updated upstream
 Nova linha online
+=======
+Nova linha desktop
+>>>>>>> Stashed changes
